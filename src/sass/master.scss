@@ -1,0 +1,5 @@
+@import "../../bower_components/susy/sass/susy";
+
+body {
+	@include span(5 of 12 1/4);
+}

@@ -1,0 +1,21 @@
+{
+  "name": "startingpoint",
+  "description": "Ideal starting point for my projects",
+  "main": "index.js",
+  "authors": [
+    "David Bachmann"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "susy": "^2.2.12"
+  }
+}
